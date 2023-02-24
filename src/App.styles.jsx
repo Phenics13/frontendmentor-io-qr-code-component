@@ -25,7 +25,7 @@ export const CardContainer = styled.div`
     0px 96px 76px rgba(0, 0, 0, 0.05);
 `;
 
-export const Title = styled.h2`
+export const Title = styled.h1`
   margin-top: 25px;
   padding: 0 15px;
 
