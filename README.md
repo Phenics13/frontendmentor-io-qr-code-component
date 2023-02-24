@@ -19,20 +19,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<p align="center">
+<div align="center">
 <img src="./solution/QR-code-desktop.png" alt="screenshot for desktop"/>
-<i>screenshot for desktop</i>
-</p>
+<p><i>screenshot for desktop</i></p>
+</div>
 <br/>
-<p align="center">
+<div align="center">
 <img src="./solution/QR-code-mobile.png" alt="screenshot for mobile"/>
-<i>screenshot for mobile</i>
-</p>
+<p><i>screenshot for mobile</i></p>
+</div>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/Phenics13/frontendmentor-io-qr-code-component)
+- Live Site URL: [netlify](https://bucolic-gumdrop-cff5a1.netlify.app/)
 
 ## My process
 
